@@ -31,11 +31,11 @@
   깃허브 액션으로 기술/개발 블로그 RSS를 수집하고 깃허브 페이지로 수집된 블로그 글을 보여주는 오픈소스 프로젝트입니다.
 
 ### 기여
-- awesome-devblog/awesome-devblog
+- [awesome-devblog/awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
   * [PR] 접속 불가능한 블로그 제거 및 일부 블로그 RSS 변경, 삭제된 블로그 제거 등등.
-- koreanbots/core
+- [koreanbots/core](https://github.com/koreanbots/core)
   * [issues] 깃허브 계정 연동 취소 클릭시 502 응답 버그 제보 [Link #628](https://github.com/koreanbots/core/issues/628)
- - [xolving/tutorics](https://github.com/xolving/tutorics)
+- [xolving/tutorics](https://github.com/xolving/tutorics)
   * 일부 컨텐츠 기여
 
 <!--
