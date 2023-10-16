@@ -35,7 +35,9 @@
   * [PR] 접속 불가능한 블로그 제거 및 일부 블로그 RSS 변경, 삭제된 블로그 제거 등등.
 - koreanbots/core
   * [issues] 깃허브 계정 연동 취소 클릭시 502 응답 버그 제보 [Link #628](https://github.com/koreanbots/core/issues/628)
- 
+ - [xolving/tutorics](https://github.com/xolving/tutorics)
+  * 일부 컨텐츠 기여
+
 <!--
 **kyutorials/kyutorials** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
