@@ -33,8 +33,11 @@
 - [korea-dev-list/korea-dev-list.github.io](https://github.com/korea-dev-list/korea-dev-list.github.io)   
   깃허브 액션으로 기술/개발 블로그 RSS를 수집하고 깃허브 페이지로 수집된 블로그 글을 보여주는 오픈소스 프로젝트 입니다.
 
-- [kyutorials/korean-dev-youtube](https://github.com/kyutorials/korean-dev-youtube)
+- [kyutorials/korean-dev-youtube](https://github.com/kyutorials/korean-dev-youtube)   
   깃허브 액션으로 개발 유튜브를 수집하여 보여주는 오픈소스 프로젝트 입니다.
+
+- [kyutorials/discord-dev-bot](https://github.com/kyutorials/discord-dev-bot)
+  디스코드 봇을 만들어 보았지만 지금은 개발 중단된 프로젝트 입니다.
 
 ### 기여
 - [awesome-devblog/awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
