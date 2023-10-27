@@ -30,6 +30,10 @@
 [kyutorials](https://co-duck.com/ducks/kyutorials)
 
 ### Toy Project
+
+- [kr-open-development](https://github.com/kr-open-development)
+  개발자들이 참여해 만들어가는 정적 웹페이지를 목적으로 하는 프로젝트 입니다.
+
 - [korea-dev-list/korea-dev-list.github.io](https://github.com/korea-dev-list/korea-dev-list.github.io)   
   [다른 프로젝트와 병합 예정] 깃허브 액션으로 기술/개발 블로그 RSS를 수집하고 깃허브 페이지로 수집된 블로그 글을 보여주는 오픈소스 프로젝트 입니다.
 
