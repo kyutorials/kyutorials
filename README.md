@@ -46,7 +46,7 @@
 
 ### 기여
 - [awesome-devblog/awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
-  * [PR] 접속 불가능한 블로그 제거 및 일부 블로그 RSS 변경 등등
+  * [PR] 접속 불가능한 블로그 제거 및 일부 블로그 RSS 변경 등등 [Link PR](https://github.com/awesome-devblog/awesome-devblog/pulls?q=is%3Apr+author%3Akyutorials)
 - [koreanbots/core](https://github.com/koreanbots/core)
   * [issues] 깃허브 계정 연동 취소 클릭시 502 응답 버그 제보 [Link #628](https://github.com/koreanbots/core/issues/628)
 - [xolving/tutorics](https://github.com/xolving/tutorics)
