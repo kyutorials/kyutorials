@@ -48,7 +48,7 @@
 - [awesome-devblog/awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
   * [PR] 접속 불가능한 블로그 제거 및 일부 블로그 RSS 변경 등등 [Link PR](https://github.com/awesome-devblog/awesome-devblog/pulls?q=is%3Apr+author%3Akyutorials)
 - [koreanbots/core](https://github.com/koreanbots/core)
-  * [issues] 깃허브 계정 연동 취소 클릭시 502 응답 버그 제보 [Link #628](https://github.com/koreanbots/core/issues/628)
+  * [issues] 깃허브 계정 연동 취소 클릭시 502 응답 버그 제보 [Link #628](https://github.com/koreanbots/core/issues/628) [Link #630](https://github.com/koreanbots/core/issues/630)
 - [xolving/tutorics](https://github.com/xolving/tutorics)
   * [PR] 일부 컨텐츠 기여 [Link PR](https://github.com/xolving/tutorics/pulls?q=is%3Apr+author%3Akyutorials)
 
