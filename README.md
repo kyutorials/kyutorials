@@ -36,10 +36,10 @@
   누구나 포크해 실행하거나 페이지를 배포하는 동작을 확인 할 수 있도록(그리고 무료) 깃허브 액션 + 깃허브 페이지로 구성됩니다.
 
 - [korea-dev-list/korea-dev-list.github.io](https://github.com/korea-dev-list/korea-dev-list.github.io)   
-  [다른 프로젝트와 병합 예정] 깃허브 액션으로 기술/개발 블로그 RSS를 수집하고 깃허브 페이지로 수집된 블로그 글을 보여주는 오픈소스 프로젝트 입니다.
+  [kr-open-development와 병합 예정] 깃허브 액션으로 기술/개발 블로그 RSS를 수집하고 깃허브 페이지로 수집된 블로그 글을 보여주는 오픈소스 프로젝트 입니다.
 
 - [kyutorials/korean-dev-youtube](https://github.com/kyutorials/korean-dev-youtube)   
-  [다른 프로젝트와 병합 예정] 깃허브 액션으로 개발 유튜브를 수집하여 보여주는 오픈소스 프로젝트 입니다.
+  [kr-open-development와 병합 예정] 깃허브 액션으로 개발 유튜브를 수집하여 보여주는 오픈소스 프로젝트 입니다.
 
 - [kyutorials/discord-dev-bot](https://github.com/kyutorials/discord-dev-bot)   
   [개발중단] 개발 관련 기능을 제공하는 디스코드 봇을 만들어 보았지만 지금은 개발 중단된 프로젝트 입니다.
