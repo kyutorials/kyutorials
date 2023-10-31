@@ -1,4 +1,12 @@
 ### Hi there 👋
+주 언어 Javascript<br/>
+보조 언어 Java, PHP<br/>
+
+주 백엔드 기술 Express.js, EJS, express-session, JWT<br/>
+보조 백엔드 기술 Spring Framework, SpringBoot, JSP, Servlet, Spring Security, Koa.js, Apache Tomcat<br/>
+
+주 프론트 기술 JQuery, D3.js<br/>
+보조 프론트 기술 Vue.js, Next.js, Three.js
 
 ### Platforms & Languages
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF)](#)
@@ -23,8 +31,10 @@
 ### Velog
 [@kyutorials](https://velog.io/@kyutorials)
 
+<!--
 ### disquiet.io
 [@kyutorials](https://disquiet.io/@kyutorials)
+-->
 
 ### co-duck
 [kyutorials](https://co-duck.com/ducks/kyutorials)
