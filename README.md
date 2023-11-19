@@ -25,16 +25,8 @@
 ### Today I Learned(TIL)
 [TIL](https://github.com/kyutorials/TIL)
 
-### blog
-[kyutorials.kr](https://kyutorials.kr)
-
 ### Velog
 [@kyutorials](https://velog.io/@kyutorials)
-
-<!--
-### disquiet.io
-[@kyutorials](https://disquiet.io/@kyutorials)
--->
 
 ### co-duck
 [kyutorials](https://co-duck.com/ducks/kyutorials)
