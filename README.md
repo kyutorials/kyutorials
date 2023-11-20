@@ -3,7 +3,7 @@
 보조 언어 Typescript, Java, PHP<br/>
 
 주 백엔드 기술 Express.js, EJS, express-session(express-mysql-session), JWT<br/>
-보조 백엔드 기술 Spring Framework, SpringBoot, JSP, JSTL, Servlet, Spring Security, Koa.js, Apache Tomcat<br/>
+보조 백엔드 기술 Spring Framework, SpringBoot, JSP, JSTL, Servlet, Spring Security, Apache Tomcat<br/>
 
 주 프론트 기술 JQuery, D3.js<br/>
 보조 프론트 기술 Vue.js, Next.js, Three.js
