@@ -34,7 +34,7 @@
 ### Toy Project
 
 - [kyutorials-blog.v2](https://github.com/kyutorials/kyutorials-blog.v2.git)   
-  개인 블로그 만들기 v2   
+  [개발중단] 개인 블로그 만들기 v2   
   Javascript, Node.js, Express.js, EJS, JQuery, JWT
 
 - [kr-open-development](https://github.com/kr-open-development)   
