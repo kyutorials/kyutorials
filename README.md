@@ -24,6 +24,9 @@
 [kyutorials](https://co-duck.com/ducks/kyutorials)
 
 ### Toy Project
+- [kyutorials-blog-v3](https://github.com/kyutorials/kyutorials-blog-v3)
+  [개발중] 개인 블로그 만들기 v3   
+  MariaDB, Javascript, Node.js
 
 - [kr-open-development](https://github.com/kr-open-development)   
   [개발중] 개발자들이 참여해 만들어가는 정적 웹페이지를 목적으로 하는 프로젝트 입니다.   
