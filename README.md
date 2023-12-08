@@ -24,7 +24,7 @@
 [kyutorials](https://co-duck.com/ducks/kyutorials)
 
 ### Toy Project
-- [kyutorials-blog-v3](https://github.com/kyutorials/kyutorials-blog-v3)
+- [kyutorials-blog-v3](https://github.com/kyutorials/kyutorials-blog-v3)   
   [개발중] 개인 블로그 만들기 v3   
   MariaDB, Javascript, Node.js
 
